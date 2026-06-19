@@ -34,6 +34,7 @@ header img{
     justify-content: center;
     display: flex;
     height: 100%;
+    font-weight: medium;
 }
 .company_name{
     width: 1160px;
@@ -77,6 +78,7 @@ header img{
     justify-content: center;
     display: flex;
     height: 100%;
+    font-weight: medium;
 }
 .game_name{
     width: 100%;
